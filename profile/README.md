@@ -13,7 +13,7 @@ AI agents are good at reporting that work is finished. Owlhoot AI is building to
 - pinned issuer trust;
 - signed certificate payloads;
 - evidence hashes and file sizes;
-- required and aggregate evidence integrity; and
+- aggregate evidence integrity; and
 - refusal of self-rooted proof.
 
 ## Public by design
