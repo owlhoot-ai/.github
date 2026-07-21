@@ -8,7 +8,7 @@ AI agents are good at reporting that work is finished. Owlhoot AI is building to
 
 ## Start here
 
-[AuditGrade Verifier](https://github.com/owlhoot-ai/auditgrade-verifier) is our public verifier and certificate-format preview. It demonstrates offline verification of:
+[Provably Done Verifier](https://github.com/owlhoot-ai/provably-done-verifier) is our public verifier and certificate-format preview. It demonstrates offline verification of:
 
 - pinned issuer trust;
 - signed certificate payloads;
@@ -35,4 +35,4 @@ Public preview. Formats and interfaces may change before v1.0. We publish runnab
 
 - [Website](https://owlhoot.ai/)
 - [Founder: Kirk Nielson](https://www.linkedin.com/in/kirk-nielson/)
-- [Security policy](https://github.com/owlhoot-ai/auditgrade-verifier/blob/main/SECURITY.md)
+- [Security policy](https://github.com/owlhoot-ai/provably-done-verifier/blob/main/SECURITY.md)
